@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Evelyn Solano Portillo
 
-### 🤖 AI Engineer | Data Analyst Jr | Mobile & Web Developer
+### 🤖 AI Engineer | Data Science Jr | Mobile & Web Developer
 
 Welcome to my GitHub profile! I'm an AI Engineer passionate about building
 intelligent solutions that make a real difference. My expertise spans Machine
